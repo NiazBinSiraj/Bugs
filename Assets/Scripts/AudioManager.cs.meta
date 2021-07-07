@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e664db1d0c0adc84ab69a15f03fc01a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bugSquashSound: {fileID: 8300000, guid: 3f563381691e4274da5ddb9dc32c6935, type: 3}
+  - classicBGM: {fileID: 8300000, guid: c4372c1cb4c275d4481e73044061f6b9, type: 3}
+  - limitedBGM: {fileID: 8300000, guid: 189212d804066b3439c134b4c693bf3e, type: 3}
+  - masteryBGM: {fileID: 8300000, guid: 70579e9b00691b143a676ecad17c1f13, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
